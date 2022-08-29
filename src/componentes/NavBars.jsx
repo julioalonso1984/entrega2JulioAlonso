@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <div>
             <div className="barraMenu">
-                <nav className="navbar col-11 navbar-dark">
+                <nav className="navbar col-12 navbar-dark">
                     <div className="container-fluid">
                         <a className="navbar-brand" href="#">ELECTRÓNICA ALONSO</a>
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
